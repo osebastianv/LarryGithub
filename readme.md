@@ -1,5 +1,7 @@
-# Larry Plotter
+# Larry Plotter Saga
 
 Esta serie de libros cuentan la historia de gran hacker.
 
-**Oscar Sebastián**
+**Oscar Sebastián**, Larry Plotter fan.
+
+Diciembre 2017
